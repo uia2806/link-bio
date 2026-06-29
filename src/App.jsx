@@ -9,7 +9,7 @@ const App = () => {
   const musicTracks = [
     {
       name: 'Nơi này có anh',
-      url: '/Noi.nay.co.anh.mp3',
+      url: 'Noi.nay.co.anh.mp3',
     },
   ];
 
