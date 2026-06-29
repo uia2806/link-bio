@@ -13,7 +13,7 @@ const App = () => {
   const musicTracks = [
     {
       name: 'Nơi này có anh',
-      url: 'https://github.com/uia2806/link-bio/raw/main/public/Noi.nay.co.anh.mp3',
+      url: 'Noi.nay.co.anh.mp3',
     },
     // Thêm các bài hát khác tương tự
   ];
